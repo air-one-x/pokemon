@@ -9,7 +9,6 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-
 }
 
 .pokemon {
@@ -22,6 +21,7 @@
 .pokemon img {
     border:1px solid black;
     border-radius: 50%;
+    background-color: lightblue;
 }
 
 
@@ -67,4 +67,10 @@
 .fight{
     display: flex;
     justify-content:space-between;
+}
+
+@media(max-width:1415px) {
+    .pokemon {
+        margin:50px;
+    }
 }
