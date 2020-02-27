@@ -1,0 +1,70 @@
+
+.row {
+    height: 50vh;
+}
+
+.pokemon-list_choice-pokemon{
+    margin-left: 8%;
+    margin-right: 8%;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+.pokemon {
+    width: 9%;
+    margin-bottom: 0;
+    height: 25%;
+    text-align: center;
+}
+
+.pokemon img {
+    border:1px solid black;
+    border-radius: 50%;
+}
+
+
+.first-pokemon {
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+}
+
+.second-pokemon {
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+}
+
+.img-first-pokemon{
+    width: 40%;
+}
+
+.attributes-first-pokemon {
+    width: 60%;
+}
+
+.img-second-pokemon{
+    width: 40%;
+
+}
+
+.attributes-second-pokemon {
+    width: 60%;
+}
+
+.stat p {
+    text-align: center;
+}
+
+.stat {
+    margin-top:40%;
+}
+
+.fight{
+    display: flex;
+    justify-content:space-between;
+}
