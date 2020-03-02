@@ -1,3 +1,5 @@
+SITE: https://air-one-x.github.io/pokemon/
+
 # pokemon fight
 
 ## Choisissez vos pokémon préférés, et faites les combatre dans l'arène.
