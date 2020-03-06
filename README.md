@@ -8,6 +8,8 @@ SITE: https://air-one-x.github.io/pokemon/
 - Possibilité de sélectionner 2 pokémon parmi 20. 
 - Vidéo de démonstration : https://github.com/air-one-x/pokemon/blob/master/pokemon.mp4
 
+![resultat](pokemon.png)
+
 #### JavaScript
 #### AJAX
 #### JSON
